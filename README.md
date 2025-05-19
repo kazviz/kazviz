@@ -1,27 +1,21 @@
 <div align="center">
 
-# Hello, I'm KazViz
+<a href="https://kazviz.com" target="_blank">
+  <img src="https://img.shields.io/badge/kazviz.com-%23181818?style=for-the-badge&logo=firefox-browser&logoColor=488eef" />
+</a>
 
-A Passionate Programmer and Tech Enthusiast
+# Hello, I'm KazViz
 
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-%23333B4C?style=for-the-badge&logo=neovim&logoColor=white)
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-%23333B4C?style=for-the-badge&logo=figma&logoColor=white)  
-![Software Engineer](https://img.shields.io/badge/Software-Engineer-%23333B4C?style=for-the-badge&logo=gtk&logoColor=white)
+![Game Developer](https://img.shields.io/badge/Game-Developer-%23333B4C?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-%23333B4C?style=for-the-badge&logo=caddy&logoColor=white)
 
-Connect with Me and Let's Be Friend! 🤝
-
 <a href="https://linktr.ee/kazviz" target="blank">
-    <img src="https://img.shields.io/badge/LinkTree-%23181818?logo=linktree&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkTree-%23181818?logo=linktree&style=for-the-badge&logoColor=ffffff"/>
 </a>
 <a href="https://instagram.com/kazviz" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23181818?logo=instagram&style=for-the-badge"/>
-</a>
-<a href="https://tiktok.com/@kazviz" target="blank">
-    <img src="https://img.shields.io/badge/TikTok-%23181818?logo=tiktok&style=for-the-badge"/>
-</a>
-<a href="https://x.com/kazviz" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%23181818?logo=X&style=for-the-badge"/>
 </a>
 
 </div>
@@ -42,10 +36,10 @@ Hobby     : learning everything
 ```
 
 -   👋 Call me **Kaz** or **Kaizan**
--   🧡 Programming Lover
 -   ⚡ Performance Nerd
+-   🦀 **Rust**acean
+-   🧡 Svelte Society
 -   🎨 UI/UX Perfectionist Artist
--   🐈️ I Love Cat pspspsps
 
 ## My Stats
 
@@ -67,13 +61,9 @@ Hobby     : learning everything
         alt="My Wakatime stats"
       />
   </a>
-</div>
 
-## Contact Me
-
-✉️ Email: [kazviz@proton.me](mailto:kazviz@proton.me)  
-📷️ Feel free to DM me on Instagram: [@kazviz](https://instagram.com/kazviz)
-
-<br />
+  <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kazviz&color=blue&style=flat)
+
+</div>
