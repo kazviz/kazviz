@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://kazviz.com" target="_blank">
-  <img src="https://img.shields.io/badge/kazviz.com-%23181818?style=for-the-badge&logo=firefox-browser&logoColor=488eef" />
-</a>
-
 # Hello, I'm KazViz
 
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-%23333B4C?style=for-the-badge&logo=neovim&logoColor=white)
@@ -16,6 +12,9 @@
 </a>
 <a href="https://instagram.com/kazviz" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23181818?logo=instagram&style=for-the-badge"/>
+</a><br />
+<a href="https://kazviz.com" target="_blank">
+  <img src="https://img.shields.io/badge/kazviz.com-%23181818?style=for-the-badge&logo=firefox-browser&logoColor=488eef" />
 </a>
 
 </div>
