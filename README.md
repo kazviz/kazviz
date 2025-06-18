@@ -11,9 +11,6 @@
 <a href="https://linktr.ee/kazviz" target="blank">
     <img src="https://img.shields.io/badge/LinkTree-%23181818?logo=linktree&style=for-the-badge&logoColor=green"/>
 </a>
-<a href="https://kazviz.com" target="_blank">
-  <img src="https://img.shields.io/badge/kazviz.com-%23181818?style=for-the-badge&logo=firefox-browser&logoColor=orange" />
-</a>
 
 </div>
 
